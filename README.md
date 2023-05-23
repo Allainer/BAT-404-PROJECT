@@ -31,8 +31,7 @@ The researchers explored this proposed project through in-depth studies of the d
 
 ## RECOMMENDATION
 
-The government should have strict implementation of waste segregation in every household and infrastructure. Providing more infrastructure that is equipped to dispose of waste in environmentally friendly ways should be given more attention by the government. In households, awareness should be strictly imposed, and every home must strictly follow waste segregation. In public, a fine or any other way to penalize people who violate the rules should be implemented, whether it is on the streets or in any public space. Consistency in implementation is what will make the project successful. Organizations that will be part of the restrictions on waste shall be properly oriented to provide proper guidance to the people of the community and attain a positive outcome.
-
+The study aims to provide insights into waste disposal and management in the Philippines. The effects of the ongoing production of goods with harmful materials worsen the increasing amount of waste that is negatively affecting our environment. Waste from households is uncontrollable, and people are being more and more irresponsible with their waste. This study will contribute to an analysis of how waste is a great concern in the Philippines and what initiatives are lacking to impose an effective solution to this problem. 
 
 ## REFERENCES 
 • https://www.jstage.jst.go.jp/article/jsmcwm/24/0/24_677/_pdf
