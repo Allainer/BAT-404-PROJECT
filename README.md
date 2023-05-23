@@ -29,7 +29,7 @@ The Philippines is one of the countries that suffers from poor practices in wast
 
 The researchers explored this proposed project through in-depth studies of the datasets from trusted websites and sources that provide crucial information for providing analytical reports and insights in the field of the problem. The researchers will analyze data that is connected to the effects of improper waste disposal and management in the Philippines and how proper waste disposal and management can help our country solve this problem, considering the public's health and safety from the said effects of the problem. The researchers will provide analytical insights from both improper and proper waste management and produce solutions and recommendations.
 
-## RECOMMENDATION
+## EXPECTED OUTCOME
 
 The study aims to provide insights into waste disposal and management in the Philippines. The effects of the ongoing production of goods with harmful materials worsen the increasing amount of waste that is negatively affecting our environment. Waste from households is uncontrollable, and people are being more and more irresponsible with their waste. This study will contribute to an analysis of how waste is a great concern in the Philippines and what initiatives are lacking to impose an effective solution to this problem. 
 
