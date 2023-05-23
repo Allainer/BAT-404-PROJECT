@@ -1,4 +1,4 @@
-![Title](Images/Title.png)
+![Title](Images/TITLE.png)
 ## INTRODUCTION
 
 A waste management system, or waste disposal, is a streamlined process that organizations use to dispose of, reduce, reuse, and prevent waste. It is also an approach where companies implement comprehensive strategies to efficiently manage waste from its origin until its final disposal. Possible waste disposal methods are recycling, composting, incineration, landfills, bioremediation, waste to energy, and waste minimization. Waste management is important as it saves the environment from the toxic effects of inorganic and biodegradable elements present in waste. Mismanagement of waste can cause water contamination, soil erosion, and air contamination.
