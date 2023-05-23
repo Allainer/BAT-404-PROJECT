@@ -36,8 +36,12 @@ The government should have strict implementation of waste segregation in every h
 
 ## REFERENCES 
 • https://www.jstage.jst.go.jp/article/jsmcwm/24/0/24_677/_pdf
+
 • https://noharm-global.org/issues/global/health-care-waste-management-and-sustainable-development-goals
+
 • https://safetyculture.com/topics/waste-management-system/?fbclid=IwAR0io6SODlPisVZ92GBvF2wpOaPlBM2wNCOp0VCpb2LaZgkmK1bzryRwyRA
+
 • https://myethicalchoice.com/en/journal/waste-management/the-importance-of-waste-management/
+
 • https://www.adb.org/sites/default/files/publication/29301/garbage-book.pdf
 
