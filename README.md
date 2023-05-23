@@ -1,4 +1,4 @@
-![1](Images/1.png)
+![Title](Images/Title.png)
 ## INTRODUCTION
 
 A waste management system, or waste disposal, is a streamlined process that organizations use to dispose of, reduce, reuse, and prevent waste. It is also an approach where companies implement comprehensive strategies to efficiently manage waste from its origin until its final disposal. Possible waste disposal methods are recycling, composting, incineration, landfills, bioremediation, waste to energy, and waste minimization. Waste management is important as it saves the environment from the toxic effects of inorganic and biodegradable elements present in waste. Mismanagement of waste can cause water contamination, soil erosion, and air contamination.
@@ -7,7 +7,7 @@ Waste can be recycled if collected and managed efficiently. Waste materials such
 
 The global community recognized that Solid Waste Management (SWM) is an issue that required serious attention. The aggressive pursuit of economic growth by developing countries like the Philippines has resulted in the manufacture, distribution, and use of products and the generation of waste that contribute to environmental degradation and global climate change. Available data showed that the Philippines ranks 9th among the countries at risk from climate change due to rising sea levels, intense storm surges, and droughts. This is heavily manifested in the frequent and intense floods the country is experiencing from devastating typhoons, which many claim are due to climate change. Along with the country's economic progress, the rapid growth in population has also made waste management a major environmental challenge for the country.
 
-![2](Images/2.png)
+![SDG](Images/SDG.png)
 
 SDG 12 includes targets for reducing pollution and health impacts through environmentally sound management (ESM) of all waste throughout the product life cycle and promoting waste prevention, reduction, recycling, and reuse. Sustainable procurement is also required; almost all hospital waste comes through the front door as a product. Healthcare needs to leverage its buying power to ensure that the materials it purchases generate as little waste as possible that is toxic, non-repairable, non-recyclable, or simply unnecessary. By advocating for the replacement of these products with safer alternatives, the healthcare system can help kick-start the global circular economy.
 
@@ -18,7 +18,7 @@ These techniques all help mitigate climate change. Sustainable healthcare waste 
 ## STATEMENT OF THE PROBLEM
 
 The contemporary economy's growing volume and complexity of trash pose a severe threat to ecosystems and public health. The environment has long been harmed by the waste that people produce. Because of our excessive waste production, we are unable to manage it sustainably. Our oceans and landfills are filled with waste that is not biodegradable and cannot be adequately recycled. All together, the amount of waste generated affects the environment in multiple ways: its contribution to the worsening climate crisis, its negative impact on wildlife and the natural environment, and its detriment to our very own public health. Improper waste disposal in the Philippines is a serious problem. Despite the efforts of the government and various non-governmental organizations to address the problem, there are still many areas in the country where waste is not properly managed.
-![3](Images/3.png)
+![Background](Images/Background.png)
 One of the main causes of improper waste disposal is the lack of waste management infrastructure in many areas of the Philippines. Many communities do not have access to adequate facilities for waste treatment and disposal, which leads to the accumulation of garbage in the streets, rivers, and other bodies of water. Furthermore, the lack of awareness about the importance of proper waste management also contributes to the problem. Many people do not understand the dangers associated with improper waste disposal and continue to dump garbage anywhere that is convenient for them.
 
 ## SIGNIFICANCE OF THE STUDY
